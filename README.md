@@ -8,4 +8,4 @@ torchvision == 0.5.0
 
 # Run the Code
 - cd BLSP
-- python BLSP.py
+- python DISP.py
